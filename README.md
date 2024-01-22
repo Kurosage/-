@@ -15,19 +15,22 @@
 В случае ссылок вы получите уведомление на открытие ссылки как на рисунке 
 ![image](https://github.com/Kurosage/Diplomnaya_rabota/assets/89061273/55ff4353-2ce9-4fd7-9046-762658499a0b)
 
-\<p style="text-align: center;">Рис. Контакты университета КНИТУ-КАИ.</p>
+ Рис. Контакты университета КНИТУ-КАИ.
 
 Также кнопка «Документы для поступления» откроет новое меню кнопок и будет ссылать уже на сам документ в браузере
 
  ![image](https://github.com/Kurosage/Diplomnaya_rabota/assets/89061273/8250f897-4b85-4e08-bdfe-49468afc74cd)
-\<p style="text-align: center;">Рис.Второстепенное меню.</p>
+ 
+Рис.Второстепенное меню.
 
 Также есть команда /help, где коротко описаны возможности бота
 
 ![image](https://github.com/Kurosage/Diplomnaya_rabota/assets/89061273/79e267e4-3307-4afe-949f-b24bd52af187) 
-\<p style="text-align: center;">Рис. Кнопка /help.</p>
+
+Рис. Кнопка /help.
 
 Также вы можете отослать любое сообщение с вопросом и получить необходимый вам ответ.
 
 ![image](https://github.com/Kurosage/Diplomnaya_rabota/assets/89061273/27dfdcaa-b0d8-4cc3-b025-3d3418822ed3)
-\<p style="text-align: center;">Рис. Ответ ИИ на запрос.</p>
+
+Рис. Ответ ИИ на запрос.
